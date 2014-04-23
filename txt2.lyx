@@ -59,36 +59,8 @@
 
 \begin_body
 
-\begin_layout Title
-Github test
-\end_layout
-
-\begin_layout Section
-Input from other file
-\end_layout
-
 \begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "txt1.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Branch
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "txt2.lyx"
-
-\end_inset
-
-
+This is the content of txt2 made in the revision 2 branch.
 \end_layout
 
 \end_body
