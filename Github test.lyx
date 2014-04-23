@@ -77,5 +77,13 @@ filename "txt1.lyx"
 
 \end_layout
 
+\begin_layout Standard
+Blahalalala
+\end_layout
+
+\begin_layout Section
+Branching
+\end_layout
+
 \end_body
 \end_document
