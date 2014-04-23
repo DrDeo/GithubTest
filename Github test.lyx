@@ -68,6 +68,12 @@ Input from other file
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "txt1.lyx"
+
+\end_inset
+
 
 \end_layout
 
